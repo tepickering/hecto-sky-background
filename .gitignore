@@ -133,3 +133,4 @@ dmypy.json
 *list
 *.png
 *.pdf
+*.fits.gz
