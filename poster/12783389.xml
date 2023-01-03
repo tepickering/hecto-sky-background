@@ -1,0 +1,35 @@
+<references>
+<reference>
+<a1>Jost, Sophie</a1>
+<a2>Thorseth, Anders</a2>
+<a3>Poikonen, Tuomas</a3>
+<a4>Blattner, Peter</a4>
+<a5>Gerloff, Thorsten</a5>
+<a6>Kokka, Alexander</a6>
+<a7>Dekker, Paul</a7>
+<a8>Smid, Marek</a8>
+<a9>Ferrero, Alejandro</a9>
+<a10>Kubarsepp, Toomas</a10>
+<a11>Gal, Peter</a11>
+<a12>Källberg, Stefan</a12>
+<a13>Klej, Adam</a13>
+<a14>Brida, Giorgio</a14>
+<a15>Reiners, Thomas</a15>
+<a16>Ludwig, Klaus</a16>
+<a17>Schneider, Markus</a17>
+<a18>Hui, Liu</a18>
+<t1>EMPIR 15SIB07 PhotoLED - Database of LED product spectra</t1>
+<sn/>
+<op/>
+<vo/>
+<ab>This dataset consists of 1494 relative spectral power distributions (SPD) collected by the partners and collaborators of project EMPIR 15SIB07 PhotoLED - Future Photometry Based on Solid-State Lighting Products. The SPDs of LED products of different types were measured; including AC- and DC-operated bulbs, spots, tubes, street lamps, LED strips, downlight luminaires, prints and textures by a large number of manufacturers. The measurements of the products were carried out in various laboratories, including manufacturers of LED products, test laboratories, and National Metrology Institutes (NMI). The products included in the study were manufactured in the timespan of 2009–2016. Due to the sensitivity of the data, the individual sources of data have been anonymized, the authors retain this information as confidential. The SPDs are numbered S with n between 1 and 1495, sorted by the correlated color temperature (CCT) calculated using equation published by MacCamy in 1992. The data was used in the analysis of LED illuminants and reference spectra for photometer calibration that has been published as a scientific paper Alexander Kokka et al. [1].&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Note to version 2 of the database&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;The initial release of the dataset included approximate CCT values calculated for the spectra using the equation by MacCamy[2], with the purpose of enabling sorting of the data based on CCT. It is known that the MacCamy method produces deviations from calculations using the CIE definition[3]. With some of the spectra, these were considered to be so large as to cause confusion. Therefore the CCT values calculated using the CIE definition have been added to the data. The numbering of the SPDs has been kept, and the CCT calculated with the MacCamy method has been kept for data consistency. An SPD with only zero values (S1240) was removed, from the dataset. It should further be noted that since the dataset includes measurements dating back to 2009, many sources do not comply with modern regulation and requirements for color rendering index and chromaticity. Regarding the derived quantities Rf, Ra, R9, Duv, these have been added for each SPD. A few editorial changes have been made to the accompanying meta data.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;References&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;[1] A. Kokka et al., “Development of white LED illuminants for colorimetry and recommendation of white LED reference spectrum for photometry,” Metrologia, vol. 55, no. 4, pp. 526–534, Aug. 2018.&lt;br&gt;&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1681-7575/aacae7&quot;&gt;https://iopscience.iop.org/article/10.1088/1681-7575/aacae7&lt;/a&gt; &lt;br&gt;&lt;br&gt;[2] C. S. McCamy, “Correlated color temperature as an explicit function of chromaticity coordinates,” Color Res. Appl., vol. 17, no. 2, pp. 142–144, Apr. 1992. &lt;a href=&quot;https://doi.org/10.1002/col.5080170211&quot;&gt;https://doi.org/10.1002/col.5080170211&lt;/a&gt;&lt;br&gt;&lt;br&gt;[3] correlated colour temperature CCT, Term 17-23-068 of the CIE S 017:2020 ILV: International Lighting Vocabulary, 2nd edition. &lt;a href=&quot;https://cie.co.at/eilvterm/17-23-068&quot;&gt;https://cie.co.at/eilvterm/17-23-068&lt;/a&gt;</ab>
+<la/>
+<k1>LED light technology;spectral power distribution;Light Emitting Diodes (LEDs);colorimetry;Architectural Science and Technology (incl. Acoustics, Lighting, Structure and Ecologically Sustainable Design);Nonlinear Optics and Spectroscopy;Performance Evaluation; Testing and Simulation of Reliability</k1>
+<pb/>
+<pp/>
+<yr>2021-12-15</yr>
+<ed/>
+<ul>https://data.dtu.dk/articles/dataset/EMPIR_15SIB07_PhotoLED_-_Database_of_LED_product_spectra/12783389</ul>
+<do>10.11583/DTU.12783389.v2</do>
+</reference>
+</references>

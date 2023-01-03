@@ -1,0 +1,11 @@
+We present analysis of the sky background at the MMT Observatory using sky fiber data from
+the Hectospec multi-fiber spectrograph. The natural sky background is highly variable and
+PCA-based techniques are used to model and subtract this. The resulting residual spectra are
+then used to explore more subtle features and long-term trends in the artificial sky background.
+
+The data we analyze span from 2004 through 2021. Several features due to artificial lighting show
+clear evolution during this time period. Most notably, a broad "bump" around 4500 A begins
+appearing in the data in 2017. This coincides with the City of Tucson beginning their migration of
+most street lighting to LEDs. The bump is apparent at all airmasses and azimuths. This shows that while
+LED lighting is very energy efficient, its impacts can range quite far and into spectral regions that
+previously had quite low background levels.

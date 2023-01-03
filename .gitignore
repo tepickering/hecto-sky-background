@@ -134,3 +134,4 @@ dmypy.json
 *.png
 *.pdf
 *.fits.gz
+.DS_Store
